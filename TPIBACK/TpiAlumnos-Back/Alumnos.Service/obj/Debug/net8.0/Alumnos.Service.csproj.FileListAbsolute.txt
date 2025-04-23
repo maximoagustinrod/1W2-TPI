@@ -1,0 +1,36 @@
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Service\bin\Debug\net8.0\Alumnos.Service.deps.json
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Service\bin\Debug\net8.0\Alumnos.Service.dll
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Service\bin\Debug\net8.0\Alumnos.Service.pdb
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Service\bin\Debug\net8.0\Alumnos.Data.dll
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Service\bin\Debug\net8.0\Alumnos.Model.dll
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Service\bin\Debug\net8.0\Alumnos.Data.pdb
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Service\bin\Debug\net8.0\Alumnos.Model.pdb
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\Alumnos.Service.csproj.AssemblyReference.cache
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\Alumnos.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\Alumnos.Service.AssemblyInfoInputs.cache
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\Alumnos.Service.AssemblyInfo.cs
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\Alumnos.Service.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\Alumnos.Service.sourcelink.json
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\Alumnos..8270F5D0.Up2Date
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\Alumnos.Service.dll
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\refint\Alumnos.Service.dll
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\Alumnos.Service.pdb
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\ref\Alumnos.Service.dll
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Service\bin\Debug\net8.0\Alumnos.Service.deps.json
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Service\bin\Debug\net8.0\Alumnos.Service.dll
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Service\bin\Debug\net8.0\Alumnos.Service.pdb
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Service\bin\Debug\net8.0\Alumnos.Data.dll
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Service\bin\Debug\net8.0\Alumnos.Model.dll
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Service\bin\Debug\net8.0\Alumnos.Data.pdb
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Service\bin\Debug\net8.0\Alumnos.Model.pdb
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\Alumnos.Service.csproj.AssemblyReference.cache
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\Alumnos.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\Alumnos.Service.AssemblyInfoInputs.cache
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\Alumnos.Service.AssemblyInfo.cs
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\Alumnos.Service.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\Alumnos.Service.sourcelink.json
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\Alumnos..8270F5D0.Up2Date
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\Alumnos.Service.dll
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\refint\Alumnos.Service.dll
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\Alumnos.Service.pdb
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Service\obj\Debug\net8.0\ref\Alumnos.Service.dll

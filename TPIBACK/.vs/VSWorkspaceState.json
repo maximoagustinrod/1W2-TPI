@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TpiAlumnos-Back",
+    "\\TpiAlumnos-Back\\Alumnos.Data",
+    "\\TpiAlumnos-Back\\Alumnos.Model",
+    "\\TpiAlumnos-Back\\Alumnos.Service",
+    "\\TpiAlumnos-Back\\Alumnos.WebApi"
+  ],
+  "SelectedNode": "\\TpiAlumnos-Back\\Alumnos.WebApi\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

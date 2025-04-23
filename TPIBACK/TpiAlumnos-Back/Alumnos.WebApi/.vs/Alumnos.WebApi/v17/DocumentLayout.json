@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxim\\Desktop\\PROGRA 1ER A\u00D1O TECNICATURA\\TPI_1ER_A\u00D1O_TEC\\TPIBACK\\TpiAlumnos-Back\\Alumnos.WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05E1C4ED-9839-4FEA-A6C2-67C24DBE5BEA}|..\\Alumnos.Model\\Alumnos.Model.csproj|c:\\users\\maxim\\desktop\\progra 1er a\u00F1o tecnicatura\\tpi_1er_a\u00F1o_tec\\tpiback\\tpialumnos-back\\alumnos.model\\models\\docentetotalmateriasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9269F424-9D1C-4C70-B1C4-865430A2A400}|..\\Alumnos.Data\\Alumnos.Data.csproj|c:\\users\\maxim\\desktop\\progra 1er a\u00F1o tecnicatura\\tpi_1er_a\u00F1o_tec\\tpiback\\tpialumnos-back\\alumnos.data\\data\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxim\\Desktop\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Model\\Models\\MateriaModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxim\\Desktop\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Data\\Repositories\\InfoDocente\\InfoDocenteRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxim\\Desktop\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Data\\Repositories\\Class\\InscripcionACarreraRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxim\\Desktop\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Data\\Repositories\\InfoDocente\\IInfoDocenteRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxim\\Desktop\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Model\\Models\\DocenteMateriasPromedioModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InscripcionACarreraRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Desktop\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Data\\Repositories\\Class\\InscripcionACarreraRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Data\\Repositories\\Class\\InscripcionACarreraRepository.cs",
+              "ToolTip": "C:\\Users\\maxim\\Desktop\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Data\\Repositories\\Class\\InscripcionACarreraRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Data\\Repositories\\Class\\InscripcionACarreraRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T00:49:27.892Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocenteTotalMateriasModel.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Desktop\\PROGRA 1ER A\u00D1O TECNICATURA\\TPI_1ER_A\u00D1O_TEC\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Model\\Models\\DocenteTotalMateriasModel.cs",
+              "RelativeDocumentMoniker": "..\\Alumnos.Model\\Models\\DocenteTotalMateriasModel.cs",
+              "ToolTip": "C:\\Users\\maxim\\Desktop\\PROGRA 1ER A\u00D1O TECNICATURA\\TPI_1ER_A\u00D1O_TEC\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Model\\Models\\DocenteTotalMateriasModel.cs",
+              "RelativeToolTip": "..\\Alumnos.Model\\Models\\DocenteTotalMateriasModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:31:24.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Desktop\\PROGRA 1ER A\u00D1O TECNICATURA\\TPI_1ER_A\u00D1O_TEC\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Data\\Data\\Docente.cs",
+              "RelativeDocumentMoniker": "..\\Alumnos.Data\\Data\\Docente.cs",
+              "ToolTip": "C:\\Users\\maxim\\Desktop\\PROGRA 1ER A\u00D1O TECNICATURA\\TPI_1ER_A\u00D1O_TEC\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Data\\Data\\Docente.cs",
+              "RelativeToolTip": "..\\Alumnos.Data\\Data\\Docente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:31:09.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfoDocenteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Desktop\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Data\\Repositories\\InfoDocente\\InfoDocenteRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Data\\Repositories\\InfoDocente\\InfoDocenteRepository.cs",
+              "ToolTip": "C:\\Users\\maxim\\Desktop\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Data\\Repositories\\InfoDocente\\InfoDocenteRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Data\\Repositories\\InfoDocente\\InfoDocenteRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:35:12.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MateriaModels.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Desktop\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Model\\Models\\MateriaModels.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Model\\Models\\MateriaModels.cs",
+              "ToolTip": "C:\\Users\\maxim\\Desktop\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Model\\Models\\MateriaModels.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Model\\Models\\MateriaModels.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T00:45:35.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IInfoDocenteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Desktop\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Data\\Repositories\\InfoDocente\\IInfoDocenteRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Data\\Repositories\\InfoDocente\\IInfoDocenteRepository.cs",
+              "ToolTip": "C:\\Users\\maxim\\Desktop\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Data\\Repositories\\InfoDocente\\IInfoDocenteRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Data\\Repositories\\InfoDocente\\IInfoDocenteRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:51:10.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DocenteMateriasPromedioModel.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Desktop\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Model\\Models\\DocenteMateriasPromedioModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Model\\Models\\DocenteMateriasPromedioModel.cs",
+              "ToolTip": "C:\\Users\\maxim\\Desktop\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Model\\Models\\DocenteMateriasPromedioModel.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\TPIBACK\\TpiAlumnos-Back\\Alumnos.Model\\Models\\DocenteMateriasPromedioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:19:08.127Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+[
+  {
+    "ContainingType": "Alumnos.WebApi.Controllers.AlumnoController",
+    "Method": "GetAlumno",
+    "RelativePath": "v1/api/Alumno",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "legajo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alumnos.WebApi.Controllers.AlumnoController",
+    "Method": "GetInscripcionExamenFinal",
+    "RelativePath": "v1/api/Alumno/examen/final",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "legajo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alumnos.WebApi.Controllers.AlumnoController",
+    "Method": "GetAlumnoInfo",
+    "RelativePath": "v1/api/Alumno/info",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "legajo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alumnos.WebApi.Controllers.AlumnoController",
+    "Method": "GetAlumnosInfoNota",
+    "RelativePath": "v1/api/Alumno/info/notas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "legajo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alumnos.WebApi.Controllers.AlumnoController",
+    "Method": "InscribirAlumnoEnExamenFinal",
+    "RelativePath": "v1/api/Alumno/inscribir",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Alumnos.Model.Models.InscripcionRequestModels",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alumnos.WebApi.Controllers.DocenteController",
+    "Method": "GetDocente",
+    "RelativePath": "v1/api/Docente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "legajo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alumnos.WebApi.Controllers.DocenteController",
+    "Method": "insertAlumnoMateria",
+    "RelativePath": "v1/api/Docente/alumno/materia",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "LegajoAlumno",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "LegajoDocente",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "NombreMateria",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alumnos.WebApi.Controllers.DocenteController",
+    "Method": "GetInfoDocente",
+    "RelativePath": "v1/api/Docente/info",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "legajo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alumnos.WebApi.Controllers.DocenteController",
+    "Method": "GetMateriaAlumnos",
+    "RelativePath": "v1/api/Docente/info/materiasAndAlumnos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alumnos.WebApi.Controllers.DocenteController",
+    "Method": "GetDocenteXMateria",
+    "RelativePath": "v1/api/Docente/materia",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "legajo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alumnos.WebApi.Controllers.DocenteController",
+    "Method": "editNotaMateria",
+    "RelativePath": "v1/api/Docente/materia/editar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Legajo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Nota",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Materia",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alumnos.WebApi.Controllers.DocenteController",
+    "Method": "GetDocenteXMateriaOnly",
+    "RelativePath": "v1/api/Docente/materia/only",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "legajo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alumnos.WebApi.Controllers.DocenteController",
+    "Method": "GetDocenteXTribunal",
+    "RelativePath": "v1/api/Docente/tribunal",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "legajo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

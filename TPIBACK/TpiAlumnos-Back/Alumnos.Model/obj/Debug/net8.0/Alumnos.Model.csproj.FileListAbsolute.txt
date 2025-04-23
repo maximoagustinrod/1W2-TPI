@@ -1,0 +1,24 @@
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Model\bin\Debug\net8.0\Alumnos.Model.deps.json
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Model\bin\Debug\net8.0\Alumnos.Model.dll
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Model\bin\Debug\net8.0\Alumnos.Model.pdb
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Model\obj\Debug\net8.0\Alumnos.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Model\obj\Debug\net8.0\Alumnos.Model.AssemblyInfoInputs.cache
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Model\obj\Debug\net8.0\Alumnos.Model.AssemblyInfo.cs
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Model\obj\Debug\net8.0\Alumnos.Model.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Model\obj\Debug\net8.0\Alumnos.Model.sourcelink.json
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Model\obj\Debug\net8.0\Alumnos.Model.dll
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Model\obj\Debug\net8.0\refint\Alumnos.Model.dll
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Model\obj\Debug\net8.0\Alumnos.Model.pdb
+C:\Users\maxim\Desktop\TPIBACK\TpiAlumnos-Back\Alumnos.Model\obj\Debug\net8.0\ref\Alumnos.Model.dll
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Model\bin\Debug\net8.0\Alumnos.Model.deps.json
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Model\bin\Debug\net8.0\Alumnos.Model.dll
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Model\bin\Debug\net8.0\Alumnos.Model.pdb
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Model\obj\Debug\net8.0\Alumnos.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Model\obj\Debug\net8.0\Alumnos.Model.AssemblyInfoInputs.cache
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Model\obj\Debug\net8.0\Alumnos.Model.AssemblyInfo.cs
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Model\obj\Debug\net8.0\Alumnos.Model.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Model\obj\Debug\net8.0\Alumnos.Model.sourcelink.json
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Model\obj\Debug\net8.0\Alumnos.Model.dll
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Model\obj\Debug\net8.0\refint\Alumnos.Model.dll
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Model\obj\Debug\net8.0\Alumnos.Model.pdb
+C:\Users\maxim\Desktop\PROGRA 1ER AÑO TECNICATURA\TPI_1ER_AÑO_TEC\TPIBACK\TpiAlumnos-Back\Alumnos.Model\obj\Debug\net8.0\ref\Alumnos.Model.dll

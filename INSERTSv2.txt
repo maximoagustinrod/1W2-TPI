@@ -1,0 +1,171 @@
+--SET DATEFORMAT dmy
+--SELECT * FROM ALUMNOS
+
+INSERT INTO ALUMNOS (LEGAJO, NOMBRE, APELLIDO, TIPO_DOC, NRO_DOC, DIRECCION, LOCALIDAD, ESTADO_CIVIL, ESTADO_HABIT, SITUAC_LAB, FECHA_NAC, GENERO, FECHA_ALTA) VALUES 
+
+    ----------------------------------------------------------------------------------------------------------------------N.I
+     (1007,'David', 'Davila', 1, 42589256, 'Calle Falsa 123', 2, 2, 3, 1, '05-11-2002', 2, '01-06-2024'),
+     (1008, 'Agustina', 'Martinez', 1, 43589867, 'Dean Funes 1323', 3, 3, 3, 1, '04-05-2001', 1, '01-02-2023'),
+     (1009, 'Matias', 'Suarez', 1, 44978123, 'Calle Alberdi 500', 2, 2, 3, 1, '11-10-1999', 2, '01-06-2024'),
+     (1010, 'Abigail', 'Solari', 1, 43658987, 'Av. Libertador 1000', 3, 3, 3, 2, '15-08-2000', 1, '02-01-2022');
+
+
+INSERT INTO INSCRIPCION_A_CARRERAS (FECHA, ALUMNO, CARRERA) VALUES 
+
+------------------------------------------------------------------------------
+('01-02-2024', 1007, 1),
+('01-03-2024', 1008, 1),
+('01-03-2024', 1009, 1),
+('01-03-2024', 1010, 1)
+
+--SELECT * FROM INSCRIPCION_A_CARRERAS
+
+INSERT INTO INSCRIPCION_A_CURSADO (FECHA, ALUMNO, INSCRIP_CARRER) VALUES 
+
+--------------------------------------------------------
+('01-10-2024', 1007, 5), 
+('03-10-2024', 1008, 6),
+('05-11-2022', 1009, 7),
+('10-11-2022', 1010, 8);
+
+--SELECT * FROM INSCRIPCION_A_CURSADO
+--------------------------
+INSERT INTO MATERIASXCARRERAS (CARRERA, MATERIA, DOCENTE_A_CARGO)
+VALUES (1, 2, 2001),
+	   (1, 3, 2001),
+	   (1, 7, 2001);
+
+select * from MATERIASXCARRERAS
+-------------------------------
+--SELECT * FROM MATERIASXCARRERAS
+----1,6,8,9,10
+SELECT * FROM MATERIAS_X_CURSADO
+--SELECT * FROM INSCRIPCION_A_CURSADO
+--5,6,7,8
+INSERT INTO MATERIAS_X_CURSADO (MATERIAXCARRERA, INSCRIP_CURSADO)
+VALUES (1, 5),
+	   (1, 6),
+	   (1, 7),
+	   (1, 8),
+	   (6, 5),
+	   (6, 6),
+	   (6, 7),
+	   (6, 8),
+	   (8, 5),
+	   (8, 6),
+	   (8, 7),
+	   (8, 8),
+	   (9, 5),
+	   (9, 6),
+	   (9, 7),
+	   (9, 8),
+	   (10, 5),
+	   (10, 6),
+	   (10, 7),
+	   (10, 8);
+
+-------------------------
+
+select * from CURSADAS
+--SELECT * FROM MATERIAS_X_CURSADO
+--SELECT * FROM ESTADOS_MATERIAS
+--SELECT * FROM CURSOS
+
+SET DATEFORMAT YMD
+--13-32
+INSERT INTO CURSADAS (FECHA, MATERIA_CURSADA, ESTADO_MATERIA, CURSO)
+VALUES ('2024-07-28', 13, 1, 1),
+('2024-06-21', 14, 1, 1),
+('2024-03-22', 15, 3, 2),
+('2024-06-29', 16, 3, 2),
+('2024-02-24', 17, 1, 3),
+('2024-02-19', 18, 1, 3),
+('2024-02-25', 19, 2, 1),
+('2024-01-12', 20, 2, 1),
+('2024-04-14', 21, 1, 2),
+('2024-02-12', 22, 1, 2),
+('2024-06-11', 23, 3, 1),
+('2024-01-21', 24, 3, 1),
+('2024-03-11', 25, 2, 1),
+('2024-02-27', 26, 1, 3),
+('2024-04-09', 27, 1, 3),
+('2024-06-21', 28, 1, 1),
+('2024-01-14', 29, 2, 2),
+('2024-06-21', 30, 1, 2),
+('2024-04-24', 31, 1, 2),
+('2024-03-27', 32, 3, 3);
+
+
+--------------------------------
+
+----7-26
+--select * from CURSADAS
+--select * from EXAMENES
+--SELECT * FROM EXAMENES_X_CURSADA
+SELECT * FROM TRIBUNALES
+--SELECT * FROM MATERIAS
+--SELECT * FROM MATERIASXCARRERAS
+--1,6,8,9,10
+
+INSERT INTO TRIBUNALES (MATERIA, FECHA, AULA)
+VALUES (6, '2024-10-01', 'AULA 876'),
+		(8, '2024-12-11', 'AULA 237'),
+		(9, '2024-12-11', 'AULA 250'),
+		(10, '2024-12-11', 'AULA 337');
+
+INSERT INTO DOCENTES_X_TRIBUNALES (DOCENTE, TRIBUNAL)
+VALUES (2001, 1),
+		(2001, 3),
+		(2001, 5),
+		(2001, 6),
+		(2001, 4);
+
+insert into EXAMENES (NOTA, ESTADO_EXAMEN, TIPO_EXAMEN, INSCRIP_FINAL, TRIBUNAL)
+VALUES (2, 2, 1, NULL, 1),
+	   (2, 2, 1, NULL, 3),
+	   (2, 2, 1, NULL, 3),
+	   (2, 2, 1, NULL, 4),
+	   (2, 2, 1, NULL, 1),
+	   (6, 1, 1, NULL, 5),
+	   (7, 1, 1, NULL, 6),
+	   (7, 1, 1, NULL, 6),
+	   (6, 1, 1, NULL, 4),
+	   (6, 1, 1, NULL, 1),
+	   (7, 1, 1, NULL, 3),
+	   (6, 1, 1, NULL, 4),
+	   (6, 1, 1, NULL, 6),
+	   (6, 1, 1, NULL, 5),
+	   (6, 1, 1, NULL, 1),
+	   (7, 1, 1, NULL, 4),
+	   (8, 1, 1, NULL, 1),
+	   (9, 1, 1, NULL, 3),
+	   (10, 1, 1, NULL, 3),
+	   (8, 1, 1, NULL, 1);
+
+--select * from CURSADAS
+----7-26
+--select * from EXAMENES
+----12-31
+--SELECT * FROM EXAMENES_X_CURSADA
+
+INSERT INTO EXAMENES_X_CURSADA (CURSADA, EXAMEN)
+VALUES (7, 12),
+(8, 13),
+(9, 14),
+(10, 15),
+(11, 16),
+(12, 17),
+(13, 18),
+(14, 19),
+(15, 20),
+(16, 21),
+(17, 22),
+(18, 23),
+(19, 24),
+(20, 25),
+(21, 26),
+(22, 27),
+(23, 28),
+(24, 29),
+(25, 30),
+(26, 31);
